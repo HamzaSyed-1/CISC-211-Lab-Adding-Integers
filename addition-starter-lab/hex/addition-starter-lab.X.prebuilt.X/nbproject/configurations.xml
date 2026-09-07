@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="65">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>C:\Program Files\Microchip\xc32\v5.00\pic32c\include\musl\bits\alltypes.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\eic\plib_eic.h</itemPath>
+      <itemPath>C:\Program Files\Microchip\xc32\v5.00\pic32c\include\musl\string.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\sercom.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\clock\plib_clock.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\osc32kctrl.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\port.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\same51j20a.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\port\plib_port.h</itemPath>
+      <itemPath>C:\Program Files\Microchip\xc32\v5.00\pic32c\include\musl\stdio.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\oscctrl.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\eic.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\CMSIS\CMSIS\Core\Include\core_cm4.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\sercom\usart\plib_sercom_usart_common.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\cmcc.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\definitions.h</itemPath>
+      <itemPath>C:\Program Files\Microchip\xc32\v5.00\lib\gcc\pic32c\13.2.1\include\stddef.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\device_vectors.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\rtc.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\interrupts.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\evsys\plib_evsys.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\nvic\plib_nvic.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\sercom\usart\plib_sercom5_usart.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\gclk.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\mclk.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\dmac\plib_dmac.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\rtc\plib_rtc.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\dmac.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\nvmctrl\plib_nvmctrl.h</itemPath>
+      <itemPath>C:\Program Files\Microchip\xc32\v5.00\pic32c\include\libpic32c.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\CMSIS\CMSIS\Core\Include\cmsis_gcc.h</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\packs\ATSAME51J20A_DFP\component\nvmctrl.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="LoadableFiles"
+                   displayName="Prebuilt Files"
+                   projectFiles="true">
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\hex\addition-starter-lab.X.debug.elf</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\eic\plib_eic.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\rtc\plib_rtc_timer.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\asmFunc.s</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\port\plib_port.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\clock\plib_clock.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\exceptions.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\dmac\plib_dmac.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\main.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\initialization.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\interrupts.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\evsys\plib_evsys.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\startup_xc32.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\nvic\plib_nvic.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\nvmctrl\plib_nvmctrl.c</itemPath>
+      <itemPath>C:\Users\hamza\Hamza LABS CISC 211\CISC-211-Lab-Adding-Integers\addition-starter-lab\firmware\src\config\sam_e51_cnano\peripheral\sercom\usart\plib_sercom5_usart.c</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="default" type="4">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <targetDevice>ATSAME51J20A</targetDevice>
+        <targetHeader></targetHeader>
+        <targetPluginBoard></targetPluginBoard>
+        <platformTool>pkob4hybrid</platformTool>
+        <languageToolchain></languageToolchain>
+        <languageToolchainVersion></languageToolchainVersion>
+        <platform>3</platform>
+      </toolsSet>
+      <packs>
+        <pack name="SAME51_DFP" vendor="Microchip" version="3.8.253"/>
+        <pack name="CMSIS" vendor="ARM" version="5.4.0"/>
+      </packs>
+      <ScriptingSettings>
+      </ScriptingSettings>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+        <archiverTool>
+        </archiverTool>
+        <loading>
+          <useAlternateLoadableFile>false</useAlternateLoadableFile>
+          <parseOnProdLoad>false</parseOnProdLoad>
+          <alternateLoadableFile></alternateLoadableFile>
+        </loading>
+        <subordinates>
+        </subordinates>
+      </compileType>
+      <makeCustomizationType>
+        <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
+        <makeUseCleanTarget>false</makeUseCleanTarget>
+        <makeCustomizationPreStep></makeCustomizationPreStep>
+        <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
+        <makeCustomizationPostStep></makeCustomizationPostStep>
+        <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
+        <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
+        <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
+      </makeCustomizationType>
+    </conf>
+  </confs>
+</configurationDescriptor>
